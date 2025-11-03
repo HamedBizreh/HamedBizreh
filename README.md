@@ -12,13 +12,13 @@ I'm a Palestinian Rising Full-Stack developer and Student @ An-Najah National Un
 <table align="center">
 
 <tr>
-  <td><a href="https://github.com/HamedBizreh"><img src="https://skillicons.dev/icons?i=github" width="50"></a></td>
+  <td><a href="https://github.com/HamedBizreh" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="50"></a></td>
   <td width="65"></td> <!-- Spacer -->
-  <td><a href="https://www.linkedin.com/in/hamed-bizreh-35b19b364"><img src="https://skillicons.dev/icons?i=linkedin" width="50"></a></td>
+  <td><a href="https://www.linkedin.com/in/hamed-bizreh-35b19b364" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50"></a></td>
   <td width="65"></td>
-  <td><a href="mailto:bizrehhamed@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"></a></td>
+  <td><a href="mailto:bizrehhamed@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="50"></a></td>
   <td width="65"></td>
-  <td><a href="https://discord.com/users/hameddd"><img src="https://skillicons.dev/icons?i=discord" width="50"></a></td>
+  <td><a href="https://discord.com/users/hameddd" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="50"></a></td>
 </tr>
 </table>
 
