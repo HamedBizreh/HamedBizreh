@@ -67,6 +67,8 @@ I'm a Palestinian Rising Full-Stack developer and Student @ An-Najah National Un
       <b>YouTube Clone</b>
     </a>
   </td>
+  </tr>
+  <tr>
    <td align="center">
     <a href="https://hamedbizreh.github.io/Learnify-LandingPage/">
       <img src="https://github.com/HamedBizreh/HamedBizreh/blob/main/ReadMe/Learnify%20Top.png?raw=true" width="500" alt="Leanrify Landing Page">
