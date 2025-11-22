@@ -38,21 +38,28 @@ I'm a Palestinian Rising Full-Stack developer and Student @ An-Najah National Un
 <table align="center">
 <tr>
   <td align="center">
-    <a href="https://hamedbizreh.github.io/Learnify-LandingPage/">
-      <img src="https://github.com/HamedBizreh/HamedBizreh/blob/main/ReadMe/Learnify%20Top.png?raw=true" width="500" alt="Learnify Landing Page">
+    <a href="https://hamedbizreh.github.io/X-O-game/">
+      <img src="https://github.com/HamedBizreh/HamedBizreh/blob/main/ReadMe/XO%20Game.png?raw=true" width="500" alt="X/O Game">
       <br>
-      <b>Learnify Landing Page</b>
+      <b>X/O Game</b>
     </a>
   </td>
   <td align="center">
-    <a href="https://hamedbizreh.github.io/dalouna-12428049/">
-      <img src="https://github.com/HamedBizreh/HamedBizreh/blob/main/ReadMe/dalouna-hero.png?raw=true" width="500" alt="Dalouna Restaurant Landing Page">
+    <a href="https://hamedbizreh.github.io/Car-Care-Shop/">
+      <img src="https://github.com/HamedBizreh/HamedBizreh/blob/main/ReadMe/CarCareShop.png?raw=true" width="500" alt="Bi-Motors Page">
       <br>
-      <b>Dalouna Restaurant Landing Page</b>
+      <b>Car Care Shop (Unfinished)</b>
     </a>
   </td>
 </tr>
 <tr>
+  <td align="center">
+    <a href="https://hamedbizreh.github.io/dalouna-12428049/">
+      <img src="https://github.com/HamedBizreh/HamedBizreh/blob/main/ReadMe/dalouna-hero.png?raw=true" width="500" alt="Dalouna Restaurant">
+      <br>
+      <b>Dalouna Restaurant Landing Page</b>
+    </a>
+  </td>
   <td align="center">
     <a href="https://hamedbizreh.github.io/YouTube-Clone/">
       <img src="https://github.com/HamedBizreh/HamedBizreh/blob/main/ReadMe/Youtube.png?raw=true" width="500" alt="YouTube Clone">
@@ -60,7 +67,14 @@ I'm a Palestinian Rising Full-Stack developer and Student @ An-Najah National Un
       <b>YouTube Clone</b>
     </a>
   </td>
-  <td align="center">
+   <td align="center">
+    <a href="https://hamedbizreh.github.io/Learnify-LandingPage/">
+      <img src="https://github.com/HamedBizreh/HamedBizreh/blob/main/ReadMe/Learnify%20Top.png?raw=true" width="500" alt="Leanrify Landing Page">
+      <br>
+      <b>Learnify Landing Page</b>
+    </a>
+  </td>
+   <td align="center">
     <a href="https://hamedbizreh.github.io/About-Me/">
       <img src="https://github.com/HamedBizreh/HamedBizreh/blob/main/ReadMe/About-Home.png?raw=true" width="500" alt="About Me Page">
       <br>
