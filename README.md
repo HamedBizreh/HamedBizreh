@@ -26,7 +26,7 @@ I'm a Palestinian Rising Full-Stack developer and Student @ An-Najah National Un
 ### 🧰 Languages and Tools
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cpp,git,python,react,nodejs,regex,anaconda,vscode,visualstudio,github&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cpp,git,python,react,regex,anaconda,vscode,visualstudio,github&perline=20)](https://skillicons.dev)
 <br />
 
 ---
