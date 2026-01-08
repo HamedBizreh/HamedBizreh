@@ -32,7 +32,23 @@ I'm a Palestinian Rising Full-Stack developer and Student @ An-Najah National Un
 ---
 
 
+## Latest Projects
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://carlogix.vercel.app">
+        <img src="https://github.com/HamedBizreh/HamedBizreh/blob/main/ReadMe/CarLogixHero.png?raw=true">
+        <br>
+        <b>CarLogix</b>
+      </a>
+      <p>A React project inspired by a SaaS concept, built as my first step into modern front-end development.
+<br>Focused on clean UI, reusable components, and learning core React principles.</p>
+    </td>
+  </tr>
+</table>
+
+---
 ## 🚀 Featured Projects 
 
 <table align="center">
